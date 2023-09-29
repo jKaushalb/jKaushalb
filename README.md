@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Kaushal
-- 👀 I’m interested in Machine Learining and Java Programming
-- 🌱 I’m am final year student and i am currently exploring  Deep Learning.
-- 💞️ I’m looking to collaborate on Java Projects and Computer Vision Projects.
+- 👀 I’m AI and DL enthusiast.
+- 👀 I’ve completed my B.Tech in 2022 From Nirma University, Gujarat.
+- 🌱 I work as a junior data scientist in startup.
+- 💞️ I am proficient in computer vision , end to end model development (from data gathering to deployment on aws),nlp.
 - 📫 You can join me on Linkedin https://www.linkedin.com/in/kaushal-jani-1b3662183/
 
 <!---
